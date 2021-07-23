@@ -1,3 +1,4 @@
 aws_cdk.aws-apigateway
 aws-cdk.aws-lambda
 aws-cdk.aws-iam
+aws-cdk.aws-ssm
